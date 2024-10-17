@@ -1,0 +1,30 @@
+# Node modules cache
+node_modules/
+
+# Different OS specific files
+.DS_Store
+
+# Logs
+logs/
+
+# Bundle files
+dist/
+build/
+
+# Editor files
+.idea
+.vscode
+
+# Testing
+/tests
+
+# Mobile specific
+ios/build/
+android/app/build/
+
+# Local environment variables
+.env
+.env.local
+
+# Package-lock.json
+package-lock.json
